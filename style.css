@@ -84,13 +84,13 @@ ul li.active a{
 .search{
     width: 330px;
     float: right;
-    margin-left: 473px;
+    margin-left: 447px;
     padding-top: 48px;
 }
 
 .srch{
     font-family: 'Times New Roman';
-    width: 100px;
+    width: 120px;
     height: 29px;
     background: #f4f4f44d;
     border: 1px solid rgb(0, 0, 0);
