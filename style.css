@@ -108,7 +108,8 @@ ul li.active a{
     cursor: pointer;
     width: 33px;
     height: 29px;
-    background: rgb(70 65 65);
+    background: rgb(61 56 56);
+    opacity: 1.8;
     border: 1px solid black;
     margin-top: 20px;
     color: rgb(247, 241, 241);
