@@ -92,7 +92,7 @@ ul li.active a{
     font-family: 'Times New Roman';
     width: 120px;
     height: 29px;
-    background: #f4f4f44d;
+    background: #fbf4f4;
     border: 1px solid rgb(0, 0, 0);
     margin-top: 20px;
     color: rgb(253 248 248 / 92%);
@@ -108,7 +108,7 @@ ul li.active a{
     cursor: pointer;
     width: 33px;
     height: 29px;
-    background: rgb(61 56 56);
+    background: rgb(31 31 31);
     opacity: 1.8;
     border: 1px solid black;
     margin-top: 20px;
