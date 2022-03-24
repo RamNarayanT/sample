@@ -50,7 +50,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 345px;
+    margin-left: 134px;
 }
 
 ul li{
@@ -84,7 +84,7 @@ ul li.active a{
 .search{
     width: 330px;
     float: right;
-    margin-left: 450px;
+    margin-left: 473px;
     padding-top: 48px;
 }
 
@@ -92,10 +92,10 @@ ul li.active a{
     font-family: 'Times New Roman';
     width: 100px;
     height: 29px;
-    background: transparent;
+    background: #f4f4f44d;
     border: 1px solid rgb(0, 0, 0);
     margin-top: 20px;
-    color: rgb(12, 12, 12);
+    color: rgb(253 248 248 / 92%);
     border-right: none;
     font-size: 10px;
     float: left;
@@ -106,9 +106,9 @@ ul li.active a{
 
 .btn{
     cursor: pointer;
-    width: 50px;
+    width: 33px;
     height: 29px;
-    background: rgb(7, 7, 7);
+    background: rgb(70 65 65);
     border: 1px solid black;
     margin-top: 20px;
     color: rgb(247, 241, 241);
