@@ -16,7 +16,6 @@
     width: 1500px;
     height: 75px;
     margin: auto;
-    display: flex;
 }
 
 .icon{
@@ -26,14 +25,12 @@
 }
 
 .logo{
-    color: black;
-    font-size: 50px;
-    font-family: Arial;
-    padding-left: 20px;
-    float: left;
-    padding-top: 10px;
-    margin-top: 30px;
-    margin-left: 60px;
+        color: black;
+        font-size: 50px;
+        font-family: Arial;
+        float: left;
+        margin-top: 30px;
+        margin-left: 60px
 }
 
 .menu{
@@ -84,8 +81,7 @@ ul li.active a{
 .search{
     width: 330px;
     float: right;
-    margin-left: 447px;
-    padding-top: 48px;
+    margin-top: 48px;
 }
 
 .srch{
