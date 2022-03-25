@@ -40,11 +40,14 @@
 
 .menu {
   width: 393px;
-  float: left;
+  /* float: left; */
   height: 70px;
   /* padding: 36px; */
   margin-right: 206px;
   display: flex;
+  position: fixed;
+  top: 0%;
+  left: 10%;
 }
 
 ul {
